@@ -6,8 +6,6 @@
   <a href="https://www.twitter.com/yasminnvaz" target="_blank"><img src="https://img.shields.io/twitter/follow/yasminnvaz?color=20a1f1&label=twitter&logo=twitter&style=for-the-badge" target="_blank"></a>
 </div>
 
----
-
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnvaz&hide=ruby,starlark,objective-c&layout=compact&langs_count=20&theme=tokyonight"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnvaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
