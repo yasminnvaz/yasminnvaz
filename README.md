@@ -1,5 +1,7 @@
 ## Hello! I'm Yas
 
+### Network
+
 <div>
   <a href="https://www.linkedin.com/in/yasminnvaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/yasminnvaz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,6 +9,7 @@
 </div>
 
 ---
+### Stats
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnvaz&hide=ruby,starlark,objective-c&layout=compact&langs_count=10&theme=tokyonight"/> 
